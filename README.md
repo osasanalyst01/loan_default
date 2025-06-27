@@ -14,6 +14,8 @@ Target Variable: Default (1 = Defaulted, 0 = Paid)
 
 📊 Default Rate Summary (%):
 The dataset is highly imbalanced, which is a critical consideration for modeling:
+0    88.39
+1    11.61
 
 ![Image Alt](https://github.com/user-attachments/assets/422aa212-89e7-4fe7-99e2-2a57438a9437)
 
@@ -30,7 +32,7 @@ For banks, loan defaults represent a major source of financial risk and reduced 
 
 This project is designed to equip the bank with a data-driven decision-support tool that flags potentially default-prone applicants before loan disbursement, enabling more responsible lending and sustainable portfolio growth.
 
-# Results
+
 
 ![image](https://github.com/user-attachments/assets/921f0bb5-3e9b-4824-bea8-6011550e1959)
 
