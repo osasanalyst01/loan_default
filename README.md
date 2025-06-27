@@ -15,9 +15,9 @@ Target Variable: Default (1 = Defaulted, 0 = Paid)
 📊 Default Rate Summary (%):
 The dataset is highly imbalanced, which is a critical consideration for modeling:
 
-0    88.39
+0 -   88.39%
 
-1    11.61
+1  -  11.61%
 
 ![Image Alt](https://github.com/user-attachments/assets/422aa212-89e7-4fe7-99e2-2a57438a9437)
 
